@@ -1,0 +1,16 @@
+.tasks{
+  width : 200px;
+  overflow-x:hidden;
+  display: flex;
+  flex-direction: column;    
+}
+.tasks__item{
+    line-height: 1.5;
+    padding: 0 10px;
+    word-wrap:break-word;
+    
+}
+.tasks__item-current-true{
+    outline: 2px solid   beige;
+}
+

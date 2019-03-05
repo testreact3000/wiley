@@ -1,0 +1,13 @@
+.tasksroot{
+    display: flex;
+    flex-direction: column;
+}
+.taskswrap{
+    display: flex;
+}
+.tasks__tasklist{
+    width: 200px;
+    overflow-x: hidden;
+    display: flex;
+    
+}

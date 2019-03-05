@@ -1,0 +1,15 @@
+.task{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: beige;
+}
+.task__title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.task__task{
+    margin-bottom: 10px;
+    height: 300px;
+}
